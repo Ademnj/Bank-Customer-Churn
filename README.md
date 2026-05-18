@@ -7,6 +7,7 @@ Python, Pandas, SQL ve Power BI kullanılarak 10.000 banka müşterisinin terk e
 ## 📊 Power BI Dashboard
 
 ![Dashboard](gorseller/PowerBIGenel.png)
+![Dashborad2](gorseller/Genel.png)
 
 ---
 
