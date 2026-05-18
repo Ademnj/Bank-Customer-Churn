@@ -34,7 +34,7 @@ almanya_oran = (almanya_giden / almanya_toplam) * 100
 # 3. İSPANYA için hesaplayalım
 ispanya_toplam = len(db[db['Geography'] == 'Spain'])
 ispanya_giden = db[db['Geography'] == 'Spain']['Exited'].sum()
-ispanya_oran = (almanya_giden / almanya_toplam) * 100
+ispanya_oran = (ispanya_giden / ispanya_toplam) * 100
 
 
 # Sonuçları yazdır
